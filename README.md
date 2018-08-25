@@ -1,6 +1,28 @@
-frontend-nanodegree-arcade-game
-===============================
+# Arcade Game Project
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## Instructions for Playing the Game
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+Use your arrow keys to move the player. Try to avoid the enemies! If you collide with an enemy, there will be a short delay and then your player will be moved back to the starting point. If you make it to the water, you win! Keep hitting the up arrow key until you see the popup alert window notifying you that you won the game (getting to the edge of the water is not enough). Once you click OK in the popup window, you will be sent back to the beginning and the game will start over again. 
+
+## Prerequisites
+None! If you simply drag the index.html file into a browser this should work. This works best with Google Chrome though.
+
+## Installation/Instructions for Running the Game
+Download the files and unzip them onto your computer. Drag the index.html file into a Google Chrome browser. That's it!
+
+## Dependencies
+
+None.
+
+## Resources
+
+No additional resources, just object-oriented JavaScript.
+
+## Contributing
+
+This repository is my project for the nanodegree, so I won't accept pull requests. There is no contributing file intentionally.
+
+
+## License
+
+The contents of this repository are covered under the [GNU General Public License v3.0](https://github.com/bld2104/fend-project-memory-game/blob/master/license.md).
